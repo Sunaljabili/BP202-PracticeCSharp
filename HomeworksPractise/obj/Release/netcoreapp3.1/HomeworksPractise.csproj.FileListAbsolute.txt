@@ -1,0 +1,12 @@
+/Users/sunaljabili/Projects/HomeworksPractise/HomeworksPractise/bin/Release/netcoreapp3.1/HomeworksPractise.deps.json
+/Users/sunaljabili/Projects/HomeworksPractise/HomeworksPractise/bin/Release/netcoreapp3.1/HomeworksPractise.runtimeconfig.json
+/Users/sunaljabili/Projects/HomeworksPractise/HomeworksPractise/bin/Release/netcoreapp3.1/HomeworksPractise.runtimeconfig.dev.json
+/Users/sunaljabili/Projects/HomeworksPractise/HomeworksPractise/bin/Release/netcoreapp3.1/HomeworksPractise.dll
+/Users/sunaljabili/Projects/HomeworksPractise/HomeworksPractise/bin/Release/netcoreapp3.1/HomeworksPractise.pdb
+/Users/sunaljabili/Projects/HomeworksPractise/HomeworksPractise/obj/Release/netcoreapp3.1/HomeworksPractise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sunaljabili/Projects/HomeworksPractise/HomeworksPractise/obj/Release/netcoreapp3.1/HomeworksPractise.AssemblyInfoInputs.cache
+/Users/sunaljabili/Projects/HomeworksPractise/HomeworksPractise/obj/Release/netcoreapp3.1/HomeworksPractise.AssemblyInfo.cs
+/Users/sunaljabili/Projects/HomeworksPractise/HomeworksPractise/obj/Release/netcoreapp3.1/HomeworksPractise.csproj.CoreCompileInputs.cache
+/Users/sunaljabili/Projects/HomeworksPractise/HomeworksPractise/obj/Release/netcoreapp3.1/HomeworksPractise.dll
+/Users/sunaljabili/Projects/HomeworksPractise/HomeworksPractise/obj/Release/netcoreapp3.1/HomeworksPractise.pdb
+/Users/sunaljabili/Projects/HomeworksPractise/HomeworksPractise/obj/Release/netcoreapp3.1/HomeworksPractise.genruntimeconfig.cache

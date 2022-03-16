@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{0C482A49-3B7A-45E7-B8DD-3D0A19F9046D}|Default">
+  <MonoDevelop.Ide.ItemProperties.HomeworksPractise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HomeworksPractise/Program.cs">
+    <Files>
+      <File FileName="HomeworksPractise/Program.cs" Line="93" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HomeworksPractise" expanded="True">
+            <Node name="HomeworksPractise" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
